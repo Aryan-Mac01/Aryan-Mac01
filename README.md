@@ -72,7 +72,10 @@
 <br/>
 
 <div align="center">
-<a href='https://ko-fi.com/aryanmishra5851#paypalModal' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<a href='https://ko-fi.com/aryanmishra5851#paypalModal' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a><br/><br/>
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=AryanMac&label=Kitni%20Nazar%20Padi&color=11&icon=3&pretty=true" />
+</a>
 </div>
 
 <br/>
