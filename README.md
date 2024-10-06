@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **RealTime-Code-Editor**
  
- 🌱 I’m currently learning **Docker, GO,**
+ 🌱 I’m currently learning **DevOps**
 
 💬 Ask me about **Node.js, React, Django... or anything [here](https://github.com/Aryan-Mac01)**
 
